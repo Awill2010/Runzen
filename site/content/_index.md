@@ -10,7 +10,7 @@ intro:
     text: "RunZen provides everything runners need to pursue their goals. From the novice to the veteran, we are here to support runners of all levels with expert advice, training programs, injury prevention and rehabilitation, equipment, and most importantly a community for inspiration and motivation to help them on their running journey."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "We offer a variety of memberships for runners with different experience levels. Each membership includes a running gait analysis, a customized running program, gym access, expert coaching advice, and two weekly group runs to work on speed, form, and endurance. Private coaching and physical therapy are also available. In addition, we facilitate morning group run and sun salutation yoga three days a week and weekly core strengthening classes at no additional cost to members and non members."
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
