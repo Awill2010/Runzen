@@ -4,10 +4,10 @@ subtitle: Run Mindful, RunZen
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why RunZen?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    text: "At RunZen, our mission is to empower individuals to achieve balance and well-being through the transformative power of running, mindfulness, and holistic health practices. We believe that physical endurance, mental clarity, and spiritual growth are deeply interconnected, and our goal is to guide runners on a journey of total wellness. Through mindful running, yoga, meditation, nutrition, and spiritual exploration, we help our community nurture both body and mind, fostering a deeper connection to themselves and the world around them. RunZen is more than a run—it's a path to holistic vitality, inner peace, and sustainable health."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "RunZen provides everything runners need to pursue their goals. From the novice to the veteran, we are here to support runners of all levels with expert advice, training programs, injury prevention and rehabilitation, equipment, and most importantly a community for inspiration and motivation to help them on their running journey."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
