@@ -9,35 +9,32 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        Planning for an upcoming race or just want to improve your race times? Join a training group and get access to an expert coach who will help you get where you want to be. 
+        Planning for an upcoming race or just want to improve your speed and endurance? Become a member to join a training group and get access to an expert coach who will help you get where you want to be. 
 
 We offer three different training groups based on level of experience. The beginner group for new runners or runners comfortable running up to 3 miles, the journeyman group for runners comfortable between 4 and 10 miles, and the RunZen masters group for runners focusing on 10+ miles.
 
 Each new membership comes with a running gait analysis, an individualized training schedule, 2 group training sessions per week (one speed and one distance), expert coaching advice with weekly communication on workouts, drills for form, mobility, and stability,  and access to the RunZen gym and virtual media for cross training and tools to prevent mobility reatrictions.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        RunZen also provides individual expert coaching as well as physical therapy by a licensed therapist to address any pain or injuries that may limit you on your running journey.
+        RunZen also provides individual expert coaching for anyone interested in 1 on 1 guidance, as well as physical therapy by a licensed therapist to address any pain or injuries that may limit you on your running journey.
+
+Our expert coaches provide customized form and speed drills, strength and flexibility training, and ongoing advice to help you improve your race times. Sessions can be purchased individually or grouped at a discount. They make great gifts!
+
+Running gait analyses are available to non members and include a personalized home strength and flexibility program.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+       We offer cash based physical therapy services to address those common nagging injuries that limit your progress. 
+
+Our licensed physical therapists and physical therapy assistants utilize expert knowledge to identify movement disorders and target mobility limitations using a variety of research based treatments. These include joint and soft-tissue mobility techniques, stabilization exercises, neromuscular re-education, trigger point therapy such dry needling, blood flow restriction training,and  taping.
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        RunZen also provides race management services and hosts races and other run-based events throughout the year. Keep up to date with all the various activities so you don't miss out!
 main:
-  heading: Great coffee with no compromises
+  heading: RunZen Merchandise
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Gear up with some RunZen apparel and equipment you need to take your runs to the next level.
+
+We sell running equipment and injury prevention tools as well.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
