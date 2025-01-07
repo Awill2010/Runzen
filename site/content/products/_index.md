@@ -1,22 +1,19 @@
 ---
-title: Our Coffee
+title: RunZen Services
 type: products
 image: /img/products-jumbotron.jpg
 intro:
   heading: What we offer
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+    RunZen offers a broad variety of products and services that cater to our running community. This includes training groups, running gait analysis, individual coaching, physical therapy, running apparel and equipment, injury prevention equipment, and event management.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Planning for an upcoming race or just want to improve your race times? Join a training group and get access to an expert coach who will help you get where you want to be. 
+
+We offer three different training groups based on level of experience: a beginner group for new runners or runners comfortable running up to 3 miles, the journeyman group for runners comfortable between 4 and 10 miles, and the RunZen masters group for runners focusing on 10+ miles.
+
+Each new membership comes with a running gait analysis, an individualized training schedule, 2 group training sessions per week (one speed and one distance), and access to the RunZen gym for cross training.
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
