@@ -13,11 +13,12 @@ I love hearing about everyones different experiences with running. I find it ins
 
 Running is more than just exercise for me. It's a holistic experience. It helps bring me focus in a chaotic world. It provides physical, mental, and spiritual fulfillment, much like the practice of yoga and meditation.
 
-This idea led to the creation of RunZen. I wanted to create something that brings people together around the holistic power of running.
+This idea led to the creation of RunZen. I wanted to make something that brings people together around the holistic power of running.
 
 RunZen is a community for runners. Whatever your own motivation for running might be, let RunZen be a source of inspiration and motivation on your personal running journey.
 
-Andrew Williamson, PT,DPT 
-Owner RunZen PLLC
+Andrew Williamson PT, DPT
+
+Owner, RunZen PLLC
 
 
