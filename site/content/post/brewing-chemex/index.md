@@ -17,4 +17,7 @@ This idea led to the creation of RunZen. I wanted to create something that bring
 
 RunZen is a community for runners. Whatever your own motivation for running might be, let RunZen be a source of inspiration and motivation on your personal running journey.
 
+Andrew Williamson, PT,DPT 
+Owner RunZen PLLC
+
 
