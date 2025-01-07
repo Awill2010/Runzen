@@ -1,6 +1,6 @@
 ---
 title: Starting the RunZen Journey
-date: 2017-01-04T15:04:10.000Z
+date: 2025-01-07T15:04:10.000Z
 description: What is your running story? Runzen is about bringing runners with different experiences to share their running journey together.
 image: blog-chemex.jpg
 ---
