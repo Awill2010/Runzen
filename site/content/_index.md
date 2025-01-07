@@ -12,7 +12,7 @@ products:
     - image: img/illustrations-coffee.svg
       text: "We offer a variety of memberships for runners with different experience levels. Each membership includes a running gait analysis, a customized running program, gym access, expert coaching advice, and two weekly group runs to work on speed, form, and endurance. Private coaching and physical therapy are also available for a seperate price. In addition, we facilitate morning group run and sun salutation yoga three days a week and weekly core strengthening classes at no additional cost to members and non members."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Monthly memberships unlock access to group training programs, expert coaching, and gym access. Private coaching and physical therapy are provided at individual and packaged discount rates. RunZen apparel and running equipment available for purchase. RunZen races, events and race management services also available."
 values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
