@@ -16,10 +16,7 @@ We offer three different training groups based on level of experience: a beginne
 Each new membership comes with a running gait analysis, an individualized training schedule, 2 group training sessions per week (one speed and one distance), and access to the RunZen gym for cross training.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        RunZen also provides individual expert coaching as well as physical therapy by a licensed therapist to address any pain or injuries that may limit you on your running journey.
     - image: /img/illustrations-tutorials.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
