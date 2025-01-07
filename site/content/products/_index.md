@@ -11,9 +11,9 @@ intro:
       text: >
         Planning for an upcoming race or just want to improve your race times? Join a training group and get access to an expert coach who will help you get where you want to be. 
 
-We offer three different training groups based on level of experience: a beginner group for new runners or runners comfortable running up to 3 miles, the journeyman group for runners comfortable between 4 and 10 miles, and the RunZen masters group for runners focusing on 10+ miles.
+We offer three different training groups based on level of experience. The beginner group for new runners or runners comfortable running up to 3 miles, the journeyman group for runners comfortable between 4 and 10 miles, and the RunZen masters group for runners focusing on 10+ miles.
 
-Each new membership comes with a running gait analysis, an individualized training schedule, 2 group training sessions per week (one speed and one distance), and access to the RunZen gym for cross training.
+Each new membership comes with a running gait analysis, an individualized training schedule, 2 group training sessions per week (one speed and one distance), expert coaching advice with weekly communication on workouts, drills for form, mobility, and stability,  and access to the RunZen gym and virtual media for cross training and tools to prevent mobility reatrictions.
     - image: /img/illustrations-coffee-gear.svg
       text: >
         RunZen also provides individual expert coaching as well as physical therapy by a licensed therapist to address any pain or injuries that may limit you on your running journey.
